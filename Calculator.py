@@ -1,0 +1,5 @@
+print("hello coder")
+print("this is a calculator for addition ")
+number1= input("enter 1st number : ")
+number2 = input("enter 2nd number : ")
+print(int(number1)+ int(number2))
